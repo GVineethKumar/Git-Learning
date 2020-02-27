@@ -1,0 +1,6 @@
+Dhyanahitha.org
+vineeth@gitam >> file1.txt
+echo
+echo vineeth@gitam >> file1.txt
+echo vineeth@gitam
+vineeth@gitam
